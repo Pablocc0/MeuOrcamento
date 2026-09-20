@@ -1,0 +1,4 @@
+.search-select{display:grid;gap:8px;min-width:0;flex:1}
+.search-select small{color:#577486}
+.inline-add{align-items:end}
+.quote-items input.money-input{width:145px;max-width:none;text-align:right}
